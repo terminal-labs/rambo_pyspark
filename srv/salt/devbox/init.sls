@@ -1,5 +1,8 @@
 setup_devbox:
   pkg.installed:
     - pkgs:
-      - python-virtualenv
+      - build-essential
+      - wget
+      - curl
       - emacs
+      - nano
