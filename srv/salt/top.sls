@@ -3,3 +3,4 @@ base:
     - match: grain
     - devbox
     - java
+    - conda
